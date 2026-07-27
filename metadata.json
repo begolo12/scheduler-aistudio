@@ -1,0 +1,6 @@
+{
+  "name": "Team Sync - Company Scheduler",
+  "description": "Aplikasi scheduler tim perusahaan terintegrasi dengan Google Calendar, Sheets, Drive, Gmail, dan Dashboard Produktivitas Real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
